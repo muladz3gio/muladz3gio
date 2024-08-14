@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
-<h2 align="center">open for new jobs with no experience <3</h2>
-<h3 align="center">A passionate Full Stack Web developer from Georgia</h3>
+<h2 align="center">A passionate Full Stack Web developer from Georgia</h2>
+<h3 align="center">open for new jobs with no experience <3</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muladz3gio&label=Profile%20views&color=0e75b6&style=flat" alt="muladz3gio" /> </p>
 
