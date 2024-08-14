@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.instagram.com/muladz3gio/">Instagram</a>
+  <a href="https://www.linkedin.com/in/giorgi-muladze-4814332b2/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
