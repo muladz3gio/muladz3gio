@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muladz3gio" alt="muladz3gio" /></a> </p>
 
-- 🌱 I’m currently studying **Angela Yu's Full Stack Web Development Course**
-
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **gmuladze2411@gmail.com**
+- 📫 How to reach me **muladzeg75@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.instagram.com/muladz3gio/">Instagram</a>
